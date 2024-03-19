@@ -1,0 +1,28 @@
+<root>
+    <person>
+        <name>John Doe</name>
+        <age>30</age>
+        <email>john@example.com</email>
+        <address>
+            <street>123 Main St</street>
+            <city>New York</city>
+            <zipcode>10001</zipcode>
+        </address>
+        <languages>
+            <language>Java</language>
+            <language>Python</language>
+            <language>JavaScript</language>
+        </languages>
+        <is_student>false</is_student>
+        <hobbies>
+            <hobby>
+                <name>Reading</name>
+                <type>Indoor</type>
+            </hobby>
+            <hobby>
+                <name>Hiking</name>
+                <type>Outdoor</type>
+            </hobby>
+        </hobbies>
+    </person>
+</root>
